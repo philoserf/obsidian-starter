@@ -1,3 +1,3 @@
 # obsidian-starter
 
-Opinion: Do not start with other peoples clutter and cruft!
+Opinion: Do not start with other people's clutter and cruft!
