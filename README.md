@@ -1,15 +1,33 @@
 # Obsidian Starter Vault
 
-**Opinion**: Do not start with other people's clutter and cruft!
+A clean, minimalist Obsidian vault template for distraction-free note-taking and knowledge management.
 
-After eighteen months of using Obsidian, I can share my recommended starter vault configuration.
+## Features
 
-https://github.com/philoserf/obsidian-starter/releases/tag/v1.0
+- **Minimal**: No plugins, themes, or configurations that get in your way
+- **Clean**: Start with a blank slate, not someone else's organization system
+- **Flexible**: Perfect for both beginners and advanced Obsidian users
+- **Intentional**: Designed after extensive Obsidian experience
 
-This starter vault is a clean, uncluttered, minimalist setup for beginner or advanced Obsidian users. While it is minimalist, it is also opinionated. Look for yourself and see how you might adapt it to your needs.
+## Getting Started
 
-At least one test user could use this GitHub template with the Visual Studio Code Foam plugin, too.
+1. Click the ["Use this template"](https://github.com/markayers/obsidian-starter/generate) button
+2. Clone your new repository
+3. Open the folder as an Obsidian vault
+4. Start creating your notes without distractions
 
-Good luck and happy note-taking and note-making.
+## Philosophy
 
-**Warning**: There are two crufty bits in this starter vault due to GitHub best practices. Feel free to remove the README.md and LICENSE files after you fork the repository with the “Use this template” button.
+This starter vault embraces the idea that the best knowledge systems grow organically from your own thinking patterns. Rather than adopting someone else's complex system, start with this minimal foundation and build exactly what you need.
+
+## Compatibility
+
+Works with Obsidian and has been tested with Visual Studio Code + Foam plugin.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Tip**: After creating your own repository from this template, you can safely remove the README.md and LICENSE files.
