@@ -11,7 +11,7 @@ A clean, minimalist Obsidian vault template for distraction-free note-taking and
 
 ## Getting Started
 
-1. Click the ["Use this template"](https://github.com/markayers/obsidian-starter/generate) button
+1. Click the ["Use this template"](https://github.com/philoserf/obsidian-starter/generate) button
 2. Clone your new repository
 3. Open the folder as an Obsidian vault
 4. Start creating your notes without distractions
