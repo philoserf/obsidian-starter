@@ -89,24 +89,24 @@ Consider keeping these enabled:
 Disable plugins you don't plan to use immediately. You can always re-enable them later:
 
 - **Audio recorder** - Unless you need voice notes
-- **Bookmarks** - If you prefer simpler navigation
+- **Bookmarks** - Unless you prefer simpler navigation
 - **Canvas** - Unless you work with visual boards
 - **Daily notes** - Until you establish a daily note practice (see Daily Note Style Guidance section below)
-- **File recovery** - If you have external backups
+- **File recovery** - Unless you have external backups
 - **Format converter** - Unless importing from other apps
 - **Note composer** - Until you need to split/merge notes
-- **Outgoing links** - If backlinks panel is sufficient
+- **Outgoing links** - Unless backlinks panel is insufficient
 - **Outline** - Unless you write long-form content
-- **Page preview** - If you prefer clicking through
+- **Page preview** - Unless you prefer clicking through
 - **Properties** - Until you need metadata/frontmatter
 - **Publish** - Unless using Obsidian Publish
-- **Random note** - Niche use case
-- **Slash commands** - If you prefer typing naturally
+- **Random note** - Unless you have a specific use case
+- **Slash commands** - Unless you prefer typing naturally
 - **Slides** - Unless presenting from notes
 - **Sync** - Unless using Obsidian Sync
 - **Tags** - Until you develop a tagging system
 - **Templates** - Until you identify repeated patterns
-- **Unique note creator** - Specialized workflow
+- **Unique note creator** - Unless you have a specialized workflow
 - **Word count** - Unless you track writing metrics
 - **Workspaces** - Until managing multiple layouts
 
@@ -181,23 +181,14 @@ Start simple. Add intentionally. Remove ruthlessly. Your vault should serve your
 Personal principles for maintaining this minimal approach:
 
 1. **Add friction to adding complexity**: Before installing a plugin, use Obsidian without it for a week. If you still want it, then install.
-
 2. **Delete before organizing**: If you haven't referenced a note in 6 months, delete it. Organization should serve active use, not archival anxiety.
-
 3. **Links over folders**: Prefer connecting notes through links rather than elaborate folder hierarchies. Search and links are more flexible than folders.
-
 4. **Templates when repeating three times**: Don't create a template until you've manually created the same note structure three times. Then you know it's actually useful.
-
 5. **One inbox, process daily**: Capture quickly in one place. Process and connect daily or weekly. Don't let unprocessed notes accumulate.
-
 6. **Review quarterly**: Every 3 months, review your plugins, settings, and structure. Remove what you're not using. Simplify what feels complex.
-
 7. **Mobile-first design**: If it doesn't work on mobile, reconsider if you need it. Complexity often fails on smaller screens.
-
 8. **Write for tomorrow**: Write notes you'd want to find in 3 months, not perfect notes that take 3 hours to create.
-
 9. **Trust search**: Build trust in search functionality. Don't over-organize because you're afraid you won't find things.
-
 10. **Your vault, your rules**: These are *my* rules. Develop your own based on how you think and work.
 
 ## Compatibility
