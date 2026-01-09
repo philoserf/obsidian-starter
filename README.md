@@ -170,7 +170,7 @@ You might encounter elaborate vault templates with dozens of plugins, complex fo
 - **Copying entire systems**: Someone else's system rarely fits your brain
 - **Plugin overload**: Each plugin adds complexity and maintenance burden
 - **Premature optimization**: Don't organize notes you haven't created yet
-- **Feature accumulation**: More features doesn't mean better thinking
+- **Feature accumulation**: More features don't mean better thinking
 
 ### The Minimalist Mindset
 
@@ -186,7 +186,7 @@ Personal principles for maintaining this minimal approach:
 
 3. **Links over folders**: Prefer connecting notes through links rather than elaborate folder hierarchies. Search and links are more flexible than folders.
 
-4. **Templates when repeating 3x**: Don't create a template until you've manually created the same note structure three times. Then you know it's actually useful.
+4. **Templates when repeating three times**: Don't create a template until you've manually created the same note structure three times. Then you know it's actually useful.
 
 5. **One inbox, process daily**: Capture quickly in one place. Process and connect daily or weekly. Don't let unprocessed notes accumulate.
 
