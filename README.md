@@ -170,7 +170,7 @@ You might encounter elaborate vault templates with dozens of plugins, complex fo
 - **Copying entire systems**: Someone else's system rarely fits your brain
 - **Plugin overload**: Each plugin adds complexity and maintenance burden
 - **Premature optimization**: Don't organize notes you haven't created yet
-- **Feature accumulation**: More features != better thinking
+- **Feature accumulation**: More features doesn't mean better thinking
 
 ### The Minimalist Mindset
 
