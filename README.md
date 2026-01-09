@@ -91,7 +91,7 @@ Disable plugins you don't plan to use immediately. You can always re-enable them
 - **Audio recorder** - Unless you need voice notes
 - **Bookmarks** - If you prefer simpler navigation
 - **Canvas** - Unless you work with visual boards
-- **Daily notes** - Until you establish a daily note practice (see below)
+- **Daily notes** - Until you establish a daily note practice (see Daily Note Style Guidance section below)
 - **File recovery** - If you have external backups
 - **Format converter** - Unless importing from other apps
 - **Note composer** - Until you need to split/merge notes
