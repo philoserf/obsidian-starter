@@ -43,9 +43,11 @@ What’s NOT included:
 1. Name your new repository
 1. Clone your repository or download as ZIP
 1. Open the folder as an Obsidian vault:
+
 - Launch Obsidian
 - Click “Open folder as vault”
 - Select your cloned/downloaded folder
+
 1. Start creating your first note
 
 ## Next Steps
@@ -189,7 +191,7 @@ Personal principles for maintaining this minimal approach:
 7. **Mobile-first design**: If it doesn't work on mobile, reconsider if you need it. Complexity often fails on smaller screens.
 8. **Write for tomorrow**: Write notes you'd want to find in 3 months, not perfect notes that take 3 hours to create.
 9. **Trust search**: Build trust in search functionality. Don't over-organize because you're afraid you won't find things.
-10. **Your vault, your rules**: These are *my* rules. Develop your own based on how you think and work.
+10. **Your vault, your rules**: These are _my_ rules. Develop your own based on how you think and work.
 
 ## Compatibility
 
