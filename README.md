@@ -77,25 +77,27 @@ Obsidian comes with built-in core plugins. Here's guidance for minimalism and si
 
 ### Essential Core Plugins
 
-Consider keeping these enabled:
+These are enabled in this template:
 
 - **File explorer** - Navigate your vault
-- **Search** - Find your notes
 - **Quick switcher** - Fast file navigation
-- **Graph view** - Visualize connections (optional, but useful)
 - **Backlinks** - See what links to the current note
 - **Command palette** - Access commands quickly
+- **Editor status** - Show editor state in the status bar
 
 ### Core Plugins to Disable Initially
 
 Disable plugins you don't plan to use immediately. You can always re-enable them later:
 
 - **Audio recorder** - Unless you need voice notes
+- **Bases** - Unless you need database-style views
 - **Bookmarks** - Unless you prefer simpler navigation
 - **Canvas** - Unless you work with visual boards
 - **Daily notes** - Until you establish a daily note practice (see Daily Note Style Guidance section below)
 - **File recovery** - Unless you have external backups
+- **Footnotes** - Unless you write academic or long-form content
 - **Format converter** - Unless importing from other apps
+- **Graph view** - Unless you want to visualize note connections
 - **Note composer** - Until you need to split/merge notes
 - **Outgoing links** - Unless backlinks panel is insufficient
 - **Outline** - Unless you write long-form content
@@ -103,12 +105,14 @@ Disable plugins you don't plan to use immediately. You can always re-enable them
 - **Properties** - Until you need metadata/frontmatter
 - **Publish** - Unless using Obsidian Publish
 - **Random note** - Unless you have a specific use case
+- **Search** - Unless you need the dedicated search panel
 - **Slash commands** - Unless you prefer typing naturally
 - **Slides** - Unless presenting from notes
 - **Sync** - Unless using Obsidian Sync
 - **Tags** - Until you develop a tagging system
 - **Templates** - Until you identify repeated patterns
 - **Unique note creator** - Unless you have a specialized workflow
+- **Web viewer** - Unless you need to browse web content in Obsidian
 - **Word count** - Unless you track writing metrics
 - **Workspaces** - Until managing multiple layouts
 
