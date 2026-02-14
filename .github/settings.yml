@@ -1,0 +1,10 @@
+_extends: .github
+
+repository:
+  name: obsidian-starter
+  description: "Start with nothing. Build what you need. Minimal Obsidian template."
+  homepage: https://philoserf.github.io/obsidian-starter/
+  topics:
+    - obsidian-md
+    - obsidian-vault
+  is_template: true
