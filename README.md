@@ -2,7 +2,12 @@
 
 A clean, minimalist Obsidian vault template for distraction-free note-taking and knowledge management.
 
+[![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)](#status)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Status
+
+Stable and complete. This template is finished by design; no changes are planned unless Obsidian itself changes in a way that affects it. Issues and suggestions are still welcome.
 
 ## Philosophy
 
