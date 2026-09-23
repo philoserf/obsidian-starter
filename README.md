@@ -11,25 +11,26 @@ Stable and complete. This template is finished by design; no changes are planned
 
 ## Philosophy
 
-This starter vault embraces the idea that the best knowledge systems grow organically from your own thinking patterns. Rather than adopting someone else’s complex system, start with this minimal foundation and build exactly what you need.
+This starter vault embraces the idea that the best knowledge systems grow organically from your own thinking patterns. Rather than adopting someone else's complex system, start with this minimal foundation and build exactly what you need.
 
-Don’t start with other people’s clutter and cruft.
+Don't start with other people's clutter and cruft.
 
-## Features
+## Who This Is For
 
-- Minimal: No plugins, themes, or configurations that get in your way
-- Clean: Start with a blank slate, not someone else’s organization system
-- Flexible: Perfect for both beginners and advanced Obsidian users
-- Intentional: Designed after extensive Obsidian experience
+- **Minimalists** who want a clean foundation without unnecessary complexity
+- **Intentional users** who prefer to add features as needs arise
+- **Experienced Obsidian users** tired of inheriting others' organizational clutter
+- **New users** who want to develop their own thinking patterns from the start
 
-## What’s Included
+If you're overwhelmed by complex vault templates or want to escape from an over-configured system, this minimal approach helps you build exactly what you need—nothing more, nothing less.
 
-This template provides:
+## What's Included
 
+- `.obsidian/` with a minimal core plugin selection (see [Core Plugins](#core-plugins)) and a default layout
 - MIT License file
-- This README (remove it after setup)
+- This README
 
-What’s NOT included:
+What's NOT included:
 
 - No community plugins
 - No custom themes
@@ -44,45 +45,29 @@ What’s NOT included:
 
 ## Quick Start
 
-1. Click the [“Use this template”](https://github.com/philoserf/obsidian-starter/generate) button
+1. Click the ["Use this template"](https://github.com/philoserf/obsidian-starter/generate) button
 1. Name your new repository
 1. Clone your repository or download as ZIP
 1. Open the folder as an Obsidian vault:
-
-- Launch Obsidian
-- Click “Open folder as vault”
-- Select your cloned/downloaded folder
-
+   - Launch Obsidian
+   - Click "Open folder as vault"
+   - Select your cloned/downloaded folder
+1. Delete this README and, unless you're redistributing, the LICENSE file
 1. Start creating your first note
 
 ## Next Steps
 
 After setup, consider:
 
-- Creating your first daily note
 - Exploring Settings → Options to customize appearance and behavior
 - Adding community plugins only when you identify a specific need
 - Developing your own folder structure as your notes accumulate
 
-## Who This Is For
+## Core Plugins
 
-This starter vault is designed for:
+Obsidian comes with built-in core plugins. This template enables only a few and disables the rest.
 
-- **Minimalists** who want a clean foundation without unnecessary complexity
-- **Intentional users** who prefer to add features as needs arise
-- **Experienced Obsidian users** tired of inheriting others' organizational clutter
-- **New users** who want to develop their own thinking patterns from the start
-- **Anyone** seeking a distraction-free note-taking environment
-
-If you're overwhelmed by complex vault templates or want to escape from an over-configured system, this minimal approach helps you build exactly what you need—nothing more, nothing less.
-
-## Core Plugins Guide
-
-Obsidian comes with built-in core plugins. Here's guidance for minimalism and simplicity:
-
-### Essential Core Plugins
-
-These are enabled in this template:
+### Enabled in This Template
 
 - **File explorer** - Navigate your vault
 - **Quick switcher** - Fast file navigation
@@ -90,15 +75,15 @@ These are enabled in this template:
 - **Command palette** - Access commands quickly
 - **Editor status** - Show editor state in the status bar
 
-### Core Plugins to Disable Initially
+### Disabled in This Template
 
-Disable plugins you don't plan to use immediately. You can always re-enable them later:
+Re-enable any of these when you discover you need it:
 
 - **Audio recorder** - Unless you need voice notes
 - **Bases** - Unless you need database-style views
 - **Bookmarks** - Unless you prefer simpler navigation
 - **Canvas** - Unless you work with visual boards
-- **Daily notes** - Until you establish a daily note practice (see Daily Note Style Guidance section below)
+- **Daily notes** - Until you establish a daily note practice (see [Daily Note Style Guidance](#daily-note-style-guidance))
 - **File recovery** - Unless you have external backups
 - **Footnotes** - Unless you write academic or long-form content
 - **Format converter** - Unless importing from other apps
@@ -110,7 +95,7 @@ Disable plugins you don't plan to use immediately. You can always re-enable them
 - **Properties** - Until you need metadata/frontmatter
 - **Publish** - Unless using Obsidian Publish
 - **Random note** - Unless you have a specific use case
-- **Search** - Unless you need the dedicated search panel
+- **Search** - Unless you need to search note contents, not just names
 - **Slash commands** - Unless you prefer typing naturally
 - **Slides** - Unless presenting from notes
 - **Sync** - Unless using Obsidian Sync
@@ -120,8 +105,6 @@ Disable plugins you don't plan to use immediately. You can always re-enable them
 - **Web viewer** - Unless you need to browse web content in Obsidian
 - **Word count** - Unless you track writing metrics
 - **Workspaces** - Until managing multiple layouts
-
-**Recommendation**: Start with the essential plugins enabled, disable everything else. Re-enable features when you discover you need them.
 
 ## Daily Note Style Guidance
 
@@ -193,36 +176,15 @@ Personal principles for maintaining this minimal approach:
 
 1. **Add friction to adding complexity**: Before installing a plugin, use Obsidian without it for a week. If you still want it, then install.
 2. **Delete before organizing**: If you haven't referenced a note in 6 months, delete it. Organization should serve active use, not archival anxiety.
-3. **Links over folders**: Prefer connecting notes through links rather than elaborate folder hierarchies. Search and links are more flexible than folders.
+3. **Links over folders**: Prefer connecting notes through links rather than elaborate folder hierarchies. Links are more flexible than folders.
 4. **Templates when repeating three times**: Don't create a template until you've manually created the same note structure three times. Then you know it's actually useful.
 5. **One inbox, process daily**: Capture quickly in one place. Process and connect daily or weekly. Don't let unprocessed notes accumulate.
 6. **Review quarterly**: Every 3 months, review your plugins, settings, and structure. Remove what you're not using. Simplify what feels complex.
 7. **Mobile-first design**: If it doesn't work on mobile, reconsider if you need it. Complexity often fails on smaller screens.
 8. **Write for tomorrow**: Write notes you'd want to find in 3 months, not perfect notes that take 3 hours to create.
-9. **Trust search**: Build trust in search functionality. Don't over-organize because you're afraid you won't find things.
+9. **Name notes to be found**: Give notes clear, descriptive titles so the quick switcher finds them. Don't over-organize because you're afraid you won't find things.
 10. **Your vault, your rules**: These are _my_ rules. Develop your own based on how you think and work.
-
-## Compatibility
-
-- Works with Obsidian (tested with latest versions)
-- Compatible with Visual Studio Code + Foam plugin
-- Supports desktop and mobile Obsidian apps
-
-## Documentation
-
-Visit the [project site](https://philoserf.github.io/obsidian-starter/) for additional information.
-
-## Contributing
-
-Issues and suggestions welcome. Open an issue to discuss changes or report problems.
 
 ## License
 
-This project is licensed under the MIT License - see the <LICENSE> file for details.
-
-## Cleanup
-
-After creating your vault from this template, you can safely remove:
-
-- This README.md file
-- The LICENSE file (or keep it if redistributing)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
