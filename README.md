@@ -1,185 +1,50 @@
 # Obsidian Starter
 
-A clean, minimalist Obsidian vault template for distraction-free note-taking and knowledge management.
+A minimal Obsidian vault template.
 
 [![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)](#status)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Status
 
-Stable and complete. This template is finished by design; no changes are planned unless Obsidian itself changes in a way that affects it. Issues and suggestions are still welcome.
+Stable and complete. No changes planned unless Obsidian changes in a way that affects it. Issues and suggestions welcome.
 
 ## Philosophy
 
-This starter vault embraces the idea that the best knowledge systems grow organically from your own thinking patterns. Rather than adopting someone else's complex system, start with this minimal foundation and build exactly what you need.
-
-Don't start with other people's clutter and cruft.
-
-## Who This Is For
-
-- **Minimalists** who want a clean foundation without unnecessary complexity
-- **Intentional users** who prefer to add features as needs arise
-- **Experienced Obsidian users** tired of inheriting others' organizational clutter
-- **New users** who want to develop their own thinking patterns from the start
-
-If you're overwhelmed by complex vault templates or want to escape from an over-configured system, this minimal approach helps you build exactly what you need—nothing more, nothing less.
+The best knowledge systems grow from your own thinking. Don't start with other people's clutter and cruft.
 
 ## What's Included
 
-- `.obsidian/` with a minimal core plugin selection (see [Core Plugins](#core-plugins)) and a default layout
-- MIT License file
-- This README
-
-What's NOT included:
-
-- No community plugins
-- No custom themes
-- No pre-defined folder structure
-- No sample notes or templates
-
-## Prerequisites
-
-- [Obsidian](https://obsidian.md/) installed on your device
-- GitHub account (for using the template)
-- Git (optional, for cloning)
+`.obsidian/` with a minimal core plugin selection, a LICENSE, and this README. No community plugins, themes, folders, sample notes, or templates.
 
 ## Quick Start
 
-1. Click the ["Use this template"](https://github.com/philoserf/obsidian-starter/generate) button
-1. Name your new repository
-1. Clone your repository or download as ZIP
-1. Open the folder as an Obsidian vault:
-   - Launch Obsidian
-   - Click "Open folder as vault"
-   - Select your cloned/downloaded folder
-1. Delete this README and, unless you're redistributing, the LICENSE file
-1. Start creating your first note
-
-## Next Steps
-
-After setup, consider:
-
-- Exploring Settings → Options to customize appearance and behavior
-- Adding community plugins only when you identify a specific need
-- Developing your own folder structure as your notes accumulate
+1. Click ["Use this template"](https://github.com/philoserf/obsidian-starter/generate) and name your repository
+1. Clone it or download the ZIP
+1. In Obsidian, choose **Open folder as vault** and select the folder
+1. Delete this README and, unless you're redistributing, the LICENSE
+1. Start writing
 
 ## Core Plugins
 
-Obsidian comes with built-in core plugins. This template enables only a few and disables the rest.
+Enabled:
 
-### Enabled in This Template
+- File explorer
+- Quick switcher
+- Backlinks
+- Command palette
+- Editor status
 
-- **File explorer** - Navigate your vault
-- **Quick switcher** - Fast file navigation
-- **Backlinks** - See what links to the current note
-- **Command palette** - Access commands quickly
-- **Editor status** - Show editor state in the status bar
-
-### Disabled in This Template
-
-Re-enable any of these when you discover you need it:
-
-- **Audio recorder** - Unless you need voice notes
-- **Bases** - Unless you need database-style views
-- **Bookmarks** - Unless you prefer simpler navigation
-- **Canvas** - Unless you work with visual boards
-- **Daily notes** - Until you establish a daily note practice (see [Daily Note Style Guidance](#daily-note-style-guidance))
-- **File recovery** - Unless you have external backups
-- **Footnotes** - Unless you write academic or long-form content
-- **Format converter** - Unless importing from other apps
-- **Graph view** - Unless you want to visualize note connections
-- **Note composer** - Until you need to split/merge notes
-- **Outgoing links** - Unless backlinks panel is insufficient
-- **Outline** - Unless you write long-form content
-- **Page preview** - Unless you prefer clicking through
-- **Properties** - Until you need metadata/frontmatter
-- **Publish** - Unless using Obsidian Publish
-- **Random note** - Unless you have a specific use case
-- **Search** - Unless you need to search note contents, not just names
-- **Slash commands** - Unless you prefer typing naturally
-- **Slides** - Unless presenting from notes
-- **Sync** - Unless using Obsidian Sync
-- **Tags** - Until you develop a tagging system
-- **Templates** - Until you identify repeated patterns
-- **Unique note creator** - Unless you have a specialized workflow
-- **Web viewer** - Unless you need to browse web content in Obsidian
-- **Word count** - Unless you track writing metrics
-- **Workspaces** - Until managing multiple layouts
-
-## Daily Note Style Guidance
-
-If you choose to use daily notes:
-
-### Minimalist Approach
-
-- **Keep it simple**: One note per day with date as filename (YYYY-MM-DD format)
-- **Freeform content**: No rigid template—write what matters that day
-- **Natural linking**: Reference other notes organically as you write
-- **Location**: Store in root or create a simple `/daily` folder when needed
-
-### When to Enable Daily Notes
-
-Enable the Daily Notes core plugin when you:
-
-- Want a consistent place to capture thoughts each day
-- Need a chronological record of your work or life
-- Find yourself creating dated notes manually
-- Want a default landing place when opening Obsidian
-
-### Daily Note Alternatives
-
-Don't feel obligated to use daily notes. Alternatives include:
-
-- Creating notes as topics arise (topic-based instead of time-based)
-- Using a single ongoing "scratchpad" note
-- Writing directly in project or topic notes
-- Journaling in a dedicated notebook outside Obsidian
-
-## Other Note Styles
-
-While this starter emphasizes minimalism, Obsidian supports many note-taking approaches:
-
-- **Zettelkasten**: Atomic notes with unique identifiers and connections
-- **PARA**: Projects, Areas, Resources, Archives organizational system
-- **Johnny Decimal**: Numerical categorization system
-- **MOCs (Maps of Content)**: Index notes that link to related content
-- **Topic-based**: Simple folders organized by subject
-- **Flat structure**: All notes in one folder, rely on links and search
-
-**Guidance**: Don't adopt a system upfront. Let your natural workflow emerge, then formalize it if helpful. Many users find success with a hybrid approach that evolves over time.
-
-## Learning from Maximalist Vaults
-
-You might encounter elaborate vault templates with dozens of plugins, complex folder structures, and extensive templates. Here's what to learn from them:
-
-### What to Observe
-
-- **Plugin solutions**: Note which plugins solve real problems you have
-- **Workflow patterns**: Identify useful processes, not entire systems
-- **Template ideas**: Extract specific templates when you repeat similar notes
-- **Organizational concepts**: Understand the thinking, but implement minimally
-
-### What to Avoid
-
-- **Copying entire systems**: Someone else's system rarely fits your brain
-- **Plugin overload**: Each plugin adds complexity and maintenance burden
-- **Premature optimization**: Don't organize notes you haven't created yet
-- **Feature accumulation**: More features don't mean better thinking
-
-### The Minimalist Mindset
-
-Start simple. Add intentionally. Remove ruthlessly. Your vault should serve your thinking, not showcase features.
+Everything else is off. Turn a plugin on when you notice you need it: Audio recorder, Bases, Bookmarks, Canvas, Daily notes, File recovery, Footnotes, Format converter, Graph view, Note composer, Outgoing links, Outline, Page preview, Properties, Publish, Random note, Search, Slash commands, Slides, Sync, Tags, Templates, Unique note creator, Web viewer, Word count, Workspaces.
 
 ## My Rules
 
-Personal principles for maintaining this minimal approach:
-
 1. **Add friction to adding complexity**: Before installing a plugin, use Obsidian without it for a week. If you still want it, then install.
 2. **Delete before organizing**: If you haven't referenced a note in 6 months, delete it. Organization should serve active use, not archival anxiety.
-3. **Links over folders**: Prefer connecting notes through links rather than elaborate folder hierarchies. Links are more flexible than folders.
-4. **Templates when repeating three times**: Don't create a template until you've manually created the same note structure three times. Then you know it's actually useful.
+3. **Links over folders**: Prefer connecting notes through links rather than folder hierarchies.
+4. **Templates when repeating three times**: Once you've built the same note structure by hand three times, you know a template is useful.
 5. **One inbox, process daily**: Capture quickly in one place. Process and connect daily or weekly. Don't let unprocessed notes accumulate.
-6. **Review quarterly**: Every 3 months, review your plugins, settings, and structure. Remove what you're not using. Simplify what feels complex.
+6. **Review quarterly**: Every 3 months, review your plugins, settings, and structure. Remove what you're not using.
 7. **Mobile-first design**: If it doesn't work on mobile, reconsider if you need it. Complexity often fails on smaller screens.
 8. **Write for tomorrow**: Write notes you'd want to find in 3 months, not perfect notes that take 3 hours to create.
 9. **Name notes to be found**: Give notes clear, descriptive titles so the quick switcher finds them. Don't over-organize because you're afraid you won't find things.
@@ -187,4 +52,4 @@ Personal principles for maintaining this minimal approach:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT. See [LICENSE](LICENSE).
