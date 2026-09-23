@@ -2,7 +2,7 @@
 
 A minimal Obsidian vault template.
 
-[![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)](#status)
+![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Status
